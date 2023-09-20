@@ -1,0 +1,7 @@
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\bin\Debug\Sikidom.exe.config
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\bin\Debug\Sikidom.exe
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\bin\Debug\Sikidom.pdb
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\obj\Debug\Sikidom.csproj.AssemblyReference.cache
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\obj\Debug\Sikidom.csproj.CoreCompileInputs.cache
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\obj\Debug\Sikidom.exe
+C:\Users\hollik.evelin\Desktop\B141\feladatok\Sikidom\obj\Debug\Sikidom.pdb
